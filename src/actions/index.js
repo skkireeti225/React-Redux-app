@@ -6,7 +6,11 @@ export const FETCH_POST = 'FETCH_POST';
 export const DELETE_POST = 'DELETE_POST';
 export const BUDGET_STAKE = 'BUDGET_STAKE';
 
-const ROOT_URL = 'http://localhost:8888';
+// const ROOT_URL = 'http://localhost:8888';
+
+const ROOT_URL = 'http://127.0.0.1:8888';
+
+
 // const API_KEY = '?key=lkajdsfapipwietpw';
 
 export function fetchPosts() {
