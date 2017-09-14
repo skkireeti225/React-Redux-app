@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Krishna Kireeti Samudrala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
